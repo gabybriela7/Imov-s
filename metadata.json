@@ -1,0 +1,6 @@
+{
+  "name": "MOVA - Imóveis Zona Leste",
+  "description": "MOVA - Landing page de empreendimentos na Mooca, Tatuapé e Vila Ema com formulários segmentados de interesse e atendimento no (11) 99290-0266.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
